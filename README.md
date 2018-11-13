@@ -12,3 +12,4 @@ Can I take a nap now?
 1. I want to eat. :shipit:
 ##### As a very smart person said:
 > _Taking Naps sounds so childish. I perfer to call them horizontal life pauses._
+![Dog] (IMG_0590.jpg)
