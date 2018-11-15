@@ -7,12 +7,20 @@ My name is Megan.
 I like naps and I'm bored.
 Can I take a nap now?
 
-###A table | Content
-__________ | __________
-Blah | Blah 
+-----
 1. I need a nap. | Yes
 1. I am bored. | Yes
 1. I want to eat. :shipit: 
+
+---
+- [A] feed dog
+- [B] take nap
+- [C] go to school
+
+Megan | Chitwood
+------| --------
+blah | blah
+blah | blah 
 ##### As a very smart person said:
 
 > _Taking Naps sounds so childish_.
